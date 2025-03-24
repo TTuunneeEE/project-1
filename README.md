@@ -1,2 +1,2 @@
 # project-1
-ez's publishing web page clone coding
+"웹따만" 프로젝트
